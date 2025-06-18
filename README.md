@@ -115,7 +115,7 @@ project-root/
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourname/chess-socketio.git
+   git clone https://github.com/prajapati-abhishek594/chess-socketio.git
    cd chess-socketio
    ```
 
